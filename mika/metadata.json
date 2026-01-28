@@ -1,0 +1,7 @@
+{
+  "name": "Mika Virtual - MkSmart",
+  "description": "A browser-based virtual version of the Mika educational robot using Gemini Live API for real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
